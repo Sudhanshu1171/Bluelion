@@ -1,0 +1,184 @@
+.body{
+margin: 0 15%;
+}
+nav{
+  margin: 0;
+  background-color: white;
+
+}
+ul{
+  padding:0 15% 0 0;
+}
+h1{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 104.2%;
+margin: 0 0 3% 0;
+}
+h2{
+margin: 0 0 3% 0;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 104.2%;
+}
+.btn-s{
+
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 104.2%;
+padding: 5% 0 5% 0;
+}
+p{
+font-family: 'Actor', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 141.76%;
+}
+h5{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 104.2%;
+}
+.hero-section{
+margin: 5% 0 10% 0;
+}
+.pr-btn{
+  width: 200px;
+height: 60px;
+margin-right: 1%;
+}
+.services-section{
+  margin: 0 0 10% 0;
+}
+.pan{
+  box-sizing: border-box;
+width: 373px;
+background: #FFFFFF;
+border: 2px solid #000000;
+
+
+}
+.pan-img{
+}
+.btn-card:hover {
+  background-color:  #FFFFFF;
+  color: #000000;
+  border-color: #000000;
+}
+.btn-card{
+  width: 100%;
+background-color: #000000;
+border-color: #000000;
+}
+.cod-img{
+height: 237px;
+}
+.about{
+  font-family: 'Actor', sans-serif;
+  font-size: 24px;
+  width: 900px;
+height: 136px;
+}
+.about-section{
+  margin: 0 0 10% 0;
+}
+.skillIcon{
+  height: 100px;
+}
+.icon-pad{
+  width: 0px;
+}
+.thirdSection{
+  width: 832px;
+height: 483px;
+}
+.second-row{
+  padding-top: 3%;
+  width: 664px;
+height: 179px;
+}
+.skillPara{
+  font-family: 'Actor', sans-serif;
+  font-size: 24px;
+}
+.attriLinks{
+  font-size: 8px;
+  text-decoration: none;
+  color: black;
+}
+.footer{
+  border: 2px solid black;
+  text-align: center;
+  background-color: #FFFFFF;
+
+  padding: 3% 7%;
+
+}
+.socialIcon{
+
+  margin: 0 20px;
+  padding-bottom: 20px;
+
+
+}
+.nav-cont-li{
+  font-size: 16px;
+  margin: 5%;
+}
+a{
+    text-decoration: none;
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+color: black;
+}
+.nav-efe:hover {
+  color: blue;
+
+}
+.nav-efe{
+  color: black;
+}
+
+@media screen {
+  
+}
+@media screen and (max-width: 600px) {
+  h1{
+    margin: 5% 0 5% 0;
+    font-size: 64px;
+    text-align: center;
+  }
+  .pr-btn{
+    width: 100%;
+    margin-bottom: 5%;
+  }
+  .hero-section{
+    margin-bottom: 10%;
+  }
+  .pan{
+    margin-bottom: 5%;
+  }
+  .about{
+padding: 0;
+margin: 0;
+width: auto;
+height: auto;
+  padding-bottom: 5%;
+  }
+
+.thirdSection{
+  visibility: hidden;
+}
+}
+
