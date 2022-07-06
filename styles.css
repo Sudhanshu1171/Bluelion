@@ -153,7 +153,7 @@ color: black;
 @media screen {
   
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   h1{
     margin: 5% 0 5% 0;
     font-size: 64px;
